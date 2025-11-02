@@ -1,5 +1,5 @@
-### Information on the terms of use of the website https://www.sms.ngo/
+### Информация об условиях использования сайта https://www.sms.ngo/
 ---
-> This page requires cache memory and browser cookies for proper operation.
-> Using the website, you agree to use the user data and local memory specified by
-> [personal data policy clause](/) and [conditions for using cookies](/).
+> Эта страница требует кэш-памяти и файлов cookie браузера для правильной работы.
+> Используя веб-сайт, вы соглашаетесь использовать пользовательские данные и локальную память, указанные
+> [Положение о политике персональных данных](/) и [условия использования файлов cookie](/).
