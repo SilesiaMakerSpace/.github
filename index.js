@@ -14,10 +14,7 @@
 import { createRequire } from 'node:module';
 
 
-
 const LANGCHAIN = "en-de-pl-es-ru-ua-ro"
-
-
 
 
 const LOCALES = Object.assign(
@@ -40,15 +37,11 @@ const LOCALES = Object.assign(
                 )
             )
         )
-    },(
-        await import('./locate/i18n.json',
-            {
-                with: { 
-                    type: 'json' 
-                }
-            }
-        )
-    ).default
+    },createRequire(
+        import.meta.url
+    )(
+        './locate/i18n.json'
+    )
 )
 //console.log(LOCALES)
 
