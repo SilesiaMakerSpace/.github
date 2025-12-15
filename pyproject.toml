@@ -1,0 +1,19 @@
+[project]
+name = "silesiamakerspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.124.4",
+    "gitpython>=3.1.45",
+    "go-task-bin>=3.45.5",
+    "marimo>=0.18.4",
+    "marko>=2.2.1",
+    "miniwdl>=1.13.1",
+    "notebook>=7.5.0",
+    "pandas>=2.3.3",
+    "paramiko>=4.0.0",
+    "pygithub>=2.8.1",
+    "requests>=2.32.5",
+]
